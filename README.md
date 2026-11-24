@@ -1,12 +1,4 @@
-```text
-        .                         *
-                  o-----o
-                 / \   / \
-                o---o-----o       DAVID TRUEBA
-                 \ / \   /
-                  o-----o
-   *                         .
-```
+![David Trueba — AI, sports analytics and scientific software](david-trueba-header.gif)
 
 # Hi, I'm David
 
@@ -101,6 +93,8 @@ to guide the generation process.
 | Area | Technologies |
 | :--- | :--- |
 | Programming | Python, C, C++ |
+| Data querying | SQL |
+| Data analysis & manipulation | pandas, NumPy |
 | Machine learning & deep learning | scikit-learn, PyTorch |
 | Automation | n8n |
 | Scientific software | ASCOM Alpaca |
