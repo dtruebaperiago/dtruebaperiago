@@ -60,8 +60,7 @@ software standards to telescope-control software.
 
 **Focus:** Python · ASCOM Alpaca · Hardware integration · Testing
 
-[Explore the project →](private, request me)
-
+[Private repository — request access](mailto:dtruebaperiago@gmail.com)
 ---
 
 ## More projects
