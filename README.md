@@ -1,7 +1,5 @@
 ![David Trueba — AI, sports analytics and scientific software](david-trueba-header.gif)
 
-# Hi, I'm David
-
 **Artificial Intelligence student at Universitat Autònoma de Barcelona.**
 
 I build projects that connect machine learning with practical decisions:
