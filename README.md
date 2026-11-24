@@ -11,7 +11,7 @@ software, science outreach and Python tutoring.
 
 **Interests:** Applied AI · Sports analytics · Scientific software
 
-[Email](mailto:dtruebaperiago@gmail.com)
+[Email via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=dtruebaperiago%40gmail.com)
 
 ---
 
@@ -60,7 +60,8 @@ software standards to telescope-control software.
 
 **Focus:** Python · ASCOM Alpaca · Hardware integration · Testing
 
-[Private repository — request access](mailto:dtruebaperiago@gmail.com)
+[Private repository — request access](https://mail.google.com/mail/?view=cm&fs=1&to=dtruebaperiago%40gmail.com&su=MST%20repository%20access%20request)
+
 ---
 
 ## More projects
@@ -112,4 +113,4 @@ to guide the generation process.
 I'm interested in opportunities to apply Python and machine learning,
 collaborate with a team and keep developing my technical skills.
 
-[Get in touch →](mailto:dtruebaperiago@gmail.com)
+[Get in touch →](https://mail.google.com/mail/?view=cm&fs=1&to=dtruebaperiago%40gmail.com)
