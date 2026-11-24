@@ -11,6 +11,7 @@ software, science outreach and Python tutoring.
 
 **Interests:** Applied AI · Sports analytics · Scientific software
 
+Email: `dtruebaperiago@gmail.com`
 [Email via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=dtruebaperiago%40gmail.com)
 
 ---
